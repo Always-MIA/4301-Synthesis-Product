@@ -1,42 +1,80 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Mental Health and Well-Being in Aviation
 ---
-## The index page
+ # Mental Health & Well-Being in Aviation
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+## Understanding the People Behind the Uniform
 
-## Editing pages
+When people think about being a flight attendant, they often picture traveling the world, meeting new people, and having a career that is different from the typical 9-to-5 job. Those parts of the job are real, but there is another side that is not always as visible: the mental and emotional demands of aviation work.
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+Flight attendants work in an environment that can involve irregular schedules, long workdays, disrupted sleep, demanding passenger interactions, workplace stress, and difficult experiences. Over time, these factors can affect how someone feels, functions, and recovers from work.
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
+This project explores the different factors that can influence mental health and well-being in aviation and, more importantly, how those factors can overlap.
 
-### Obsidian (free)
+## Why This Matters
 
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
+Mental health in aviation is not just about one stressful flight or one difficult day at work. Occupational stress, fatigue, burnout, sleep disruption, psychological distress, and traumatic experiences can all be different parts of a larger picture.
 
-Link: [https://obsidian.md/](https://obsidian.md/)
+For example, an irregular schedule can make it harder to get consistent sleep. Lack of recovery can contribute to fatigue, while ongoing workplace demands can add additional stress. When these experiences continue over time, they may contribute to burnout or other challenges to well-being.
 
-### Visual Studio Code (free)
+Not every flight attendant experiences these issues in the same way, and experiencing workplace stress does not automatically mean someone will develop a mental-health condition. Instead, this project looks at the different factors that can shape well-being and how they may interact within the aviation work environment.
 
-Visual Studio Code (vscode) is a popular free and open source code editor.
+## Start With the Reality Behind the Uniform
 
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
+Before looking at individual mental-health topics, it is important to understand the environment flight attendants actually work in.
 
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+The job involves much more than what passengers see during a flight. Scheduling demands, safety responsibilities, passenger interactions, irregular sleep, and the need to constantly adapt can all shape the work experience.
 
-### iA Writer (paid)
+[**Explore The Reality Behind the Uniform →**](reality)  
 
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
+## Explore the Topics
 
-Link: [https://ia.net/writer](https://ia.net/writer)
+### Occupational Stress
 
-### Text editors (free or paid)
+Explore the workplace conditions and everyday demands that can contribute to stress for aviation workers.
 
-You can use any text editor capable of opening and editing Markdown files. 
+[**Explore Occupational Stress →**](stress) 
 
----
-## Adding new pages
+### Burnout, Fatigue & Sleep
 
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+Learn about the relationship between irregular schedules, sleep disruption, fatigue, recovery, and burnout.
 
+[**Explore Burnout, Fatigue & Sleep →**](fatigue)  
+
+### Psychological Health & Trauma
+
+Look at psychological well-being and the potential effects of difficult or traumatic experiences in aviation.
+
+[**Explore Psychological Health & Trauma →**](trauma)  
+
+### Support & Well-Being
+
+Explore different forms of support that may be available to aviation workers, from peer support to professional resources.
+
+[**Explore Support & Well-Being →**](support)  
+
+## Where to Go From Here
+
+Understanding the challenges is only one part of the conversation. Knowing where to find information and support is another.
+
+The final section of this project brings together practical starting points based on different situations, whether someone is dealing with ongoing stress, fatigue, burnout, a difficult experience, or simply wants to learn more about mental health in aviation.
+
+[**Explore Resources & Support →**](resources)  
+
+## Explore the Original Research Collection
+
+This project was developed from a separate curated collection of research and resources focused on mental health and well-being in aviation.
+
+The original collection includes source annotations, research findings, government and public-health resources, aviation organizations, and support resources. It serves as the research foundation behind the information presented throughout this website.
+
+If you want to go deeper into the research behind a particular topic, you can explore the original collection.
+
+[**Explore the Full Curated Collection →**](https://always-mia.github.io/4301-Curated-Collection/)  
+
+## The Bigger Picture
+
+The goal of this project is not to suggest that every flight attendant has the same experience. Instead, it is to show how different parts of the aviation work environment can interact and why mental health deserves to be considered alongside physical safety and other aspects of workplace well-being.
+
+Behind every uniform is a person who has to manage the demands of the job while also trying to rest, recover, maintain relationships, and take care of their own well-being.
+
+Understanding that bigger picture is the first step.
