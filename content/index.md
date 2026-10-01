@@ -1,8 +1,6 @@
 ---
 title: Mental Health and Well-Being in Aviation
 ---
- # Mental Health & Well-Being in Aviation
-
 ## Understanding the People Behind the Uniform
 
 When people think about being a flight attendant, they often picture traveling the world, meeting new people, and having a career that is different from the typical 9-to-5 job. Those parts of the job are real, but there is another side that is not always as visible: the mental and emotional demands of aviation work.
